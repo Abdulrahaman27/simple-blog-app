@@ -1,0 +1,12 @@
+# Node.js
+/backend/node_modules/
+backend/db.json
+backend/.env
+
+# Logs
+*.log
+
+# OS & Editor junk
+.DS_Store
+Thumbs.db
+.vscode/
